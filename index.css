@@ -164,6 +164,10 @@ bottom: 50px;
     top: 90px;
 }
 
+.page_span:hover {
+    text-decoration: underline;
+}
+
 @media (max-width: 890px) {
     .container {
         flex-direction: column;
